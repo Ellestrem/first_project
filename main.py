@@ -1,5 +1,3 @@
-# print('Hello from repository!')
-
 # Импорт load_dotenv.
 from dotenv import load_dotenv 
 
